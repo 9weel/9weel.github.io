@@ -1,3 +1,4 @@
+<img src="/7.jpg" width="100%">
 <img src="/3.jpg" width="100%">
 
 # 欢迎来到Tech Children加油站
