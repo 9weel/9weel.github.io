@@ -1,8 +1,9 @@
 <img src="/3.jpg" width="100%">
-## 欢迎来到加油站
 
+# 欢迎来到Tech Children加油站
+   这里，不止有树莓派✔
 
-## 团队成员
+# 团队成员
 <table border="0">
   <tr>
   <td width="75%">
@@ -48,10 +49,10 @@
 <table border="0">
   <tr>
   <td width="75%">
-  <p><b></b></p>
+  <p><b>大国宫酱</b></p>
   <p><b>本科生</b></p>
   <p><b>郑州大学信息工程学院</b></p>
-  <p><b>PS：技术小青年</b></p>
+  <p><b>PS：温柔小青年</b></p>
   <p><b>梦想：正在获取中</b></p>
   </td>
   <td width="25%">
@@ -61,6 +62,6 @@
 </table>
 
 # 作品
-## 教程
-### Header 3
+# 教程
+
 <img src="/2.jpg" width="100%">
