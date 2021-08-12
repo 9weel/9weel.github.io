@@ -1,14 +1,15 @@
 <img src="/7.jpg" width="100%">
 
 # 欢迎来到Tech Children加油站
-### 这里，不止有产品🌏      </td>
+### 这里不止有产品，还有专业的学习渠道🌏      
+</td>
   <td width="25%">
-  <img src="/10.jpg" width="25%">
+  <img src="/8.jpg" width="25%">
+  <img src="/9.jpg" width="25%">
   </td>
   </tr>
 </table>
 
-### 还有专业的学习渠道
 # 团队成员
 <table border="0">
   <tr>
