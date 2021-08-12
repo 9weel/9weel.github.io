@@ -4,11 +4,12 @@
 ### 这里不止有产品，还有专业的学习渠道🌏      
 </td>
   <td width="25%">
-  <img src="/9.jpg" width="25%">[github地址]("https://github.com/")
+  <img src="/9.jpg" width="25%">
   </td>
   </tr>
 </table>
 
+## [github地址]("https://github.com/")
 # 团队成员
 <table border="0">
   <tr>
