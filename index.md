@@ -4,7 +4,7 @@
 ### 这里不止有产品，还有专业的学习渠道🌏      
 </td>
   <td width="25%">
-  <img src="/8.jpg" width="25%"><img src="/9.jpg" width="25%">
+  <img src="/9.jpg" width="25%">[github地址]("https://github.com/")
   </td>
   </tr>
 </table>
