@@ -2,7 +2,7 @@
 
 # 欢迎来到Tech Children加油站 这里有产品 还有专业的学习渠道🌏      
   <td width="25%">
-  <img src="/9.jpg" height="100%">
+  <img src="/9.jpg" width="25%">
   </td>
 
 ## github地址  
