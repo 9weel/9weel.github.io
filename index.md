@@ -3,10 +3,11 @@
 # 欢迎来到Tech Children加油站
 ### 这里，不止有产品🌏      </td>
   <td width="25%">
-  <img src="/10.jpg" width="100%">
+  <img src="/10.jpg" width="25%">
   </td>
   </tr>
 </table>
+
 ### 还有专业的学习渠道
 # 团队成员
 <table border="0">
