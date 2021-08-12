@@ -1,8 +1,8 @@
 <img src="/7.jpg" width="100%">
 
-# 欢迎来到Tech Children加油站 这里不止有产品，还有专业的学习渠道🌏      
-  <td width="100%">
-  <img src="/9.jpg" height="25%">
+# 欢迎来到Tech Children加油站 这里有产品 还有专业的学习渠道🌏      
+  <td width="25%">
+  <img src="/9.jpg" height="100%">
   </td>
 
 ## github地址  
