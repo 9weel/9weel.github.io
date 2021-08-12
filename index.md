@@ -1,13 +1,9 @@
 <img src="/7.jpg" width="100%">
 
-# 欢迎来到Tech Children加油站
-### 这里不止有产品，还有专业的学习渠道🌏      
-</td>
-  <td width="25%">
-  <img src="/9.jpg" width="25%">
+# 欢迎来到Tech Children加油站 这里不止有产品，还有专业的学习渠道🌏      
+  <td width="100%">
+  <img src="/9.jpg" height="25%">
   </td>
-  </tr>
-</table>
 
 ## github地址  
 []("https://github.com/")
