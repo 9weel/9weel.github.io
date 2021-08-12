@@ -1,8 +1,8 @@
-<img src="/7.jpg" width="100%">
 <img src="/3.jpg" width="100%">
+<img src="/7.jpg" width="100%">
 
 # 欢迎来到Tech Children加油站
-   这里，不止有树莓派✔
+### 这里，不止有树莓派🌏
 
 # 团队成员
 <table border="0">
@@ -63,6 +63,8 @@
 </table>
 
 # 作品
+基于树莓派的有声读物
 # 教程
 扫描下方二维码，获取更多教程信息😜
+
 <img src="/2.jpg" width="25%">
