@@ -4,11 +4,10 @@
   <td width="25%">
   <img src="/9.jpg" width="25%">
   </td>
-<figure class="third">
-    <img src="8.jpg" width="25%">
-    <img src="10.jpg" width="25%">
-    <img src="11.jpg" width="25%">
-</figure>
+<div align="center">
+   <img src="8.jpg"  height=160><img src="9.jpg" height=160><img src="10.jpg" height=160>
+</div>
+
 
 ## github地址  
 []("https://github.com/")
