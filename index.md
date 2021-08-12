@@ -1,9 +1,7 @@
-<img src="/10.jpg" width="100%">
 <img src="/7.jpg" width="100%">
 
 # 欢迎来到Tech Children加油站
-### 这里，不止有树莓派🌏
-
+### 这里，不止有树莓派🌏<img src="/10.jpg" width="25%">
 # 团队成员
 <table border="0">
   <tr>
