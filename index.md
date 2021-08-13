@@ -1,4 +1,4 @@
-#                                                                嗨！ 这里是Tech Children🌞
+# 嗨！ 这里是Tech Children🌞 【Hi！We are Tech Children】
 
 <div align="center">
    <img src="7.jpg"  height=160><img src="14.jpg" height=160><img src="12.jpg" height=160><img src="13.jpg" height=160>
